@@ -3,7 +3,7 @@
 	test.cpp
 	Purpose: A simple program to test the Card and Deck classes for the "War!" game.
 	
-	@author <insert your name here> 
+	@author <Josh Warren> 
 	@version 1.0
 */
 
